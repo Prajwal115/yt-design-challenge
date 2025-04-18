@@ -32,7 +32,7 @@ My prototype introduces a “Wormhole”—a dynamic visual portal that:
 
 🏞️ **Screenshots**
 
-![Home(IMG/01.jpeg)
+![Home](IMG/01.jpeg)
 ![Manual Switching](IMG/02.jpeg)
 
 
