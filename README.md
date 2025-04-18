@@ -28,6 +28,10 @@ My prototype introduces a “Wormhole”—a dynamic visual portal that:
 
 ⸻
 
+🏞️ **Screenshots**
+
+![Alt text](IMG/01.jpg)
+![Alt text](IMG/02.jpg)
 📽️ **Prototype**
 
 👉 View Figma Prototype: https://www.figma.com/proto/lgorhbSRvRE1uOHbQV56PA/Youtube-India-Challenge---Prajwal?page-id=10%3A96&node-id=10-100&viewport=134%2C324%2C0.16&t=N4X6QVWJkfL6a05z-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A100
